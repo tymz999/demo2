@@ -1,2 +1,1 @@
-gz
-pn
+gz a
