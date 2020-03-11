@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 gz
-pn
-=======
-gz a
->>>>>>> branch 'master' of https://github.com/tymz999/demo2.git
